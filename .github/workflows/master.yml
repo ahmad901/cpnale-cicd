@@ -17,4 +17,4 @@ jobs:
         server: test.id
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server_dir: /deploy/
+        server_dir: /production.test.id/
